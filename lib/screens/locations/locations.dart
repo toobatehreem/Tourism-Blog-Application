@@ -1,6 +1,5 @@
 import 'package:basics/main.dart';
 import 'package:flutter/material.dart';
-import '../../app.dart';
 import '../../models/location.dart';
 import '../../widgets/image_banner.dart';
 import 'tile_overlay.dart';
